@@ -1,0 +1,12 @@
+name: Synthetic same-name check impersonation probe
+on:
+  pull_request:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  lookalike:
+    name: program-kit-evidence/guardian
+    runs-on: ubuntu-latest
+    steps:
+      - run: printf "Synthetic GitHub Actions lookalike; not the trusted App.\n"
