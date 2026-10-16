@@ -1,8 +1,8 @@
 {
   "contractVersion": "1.0",
-  "validatorCommit": null,
-  "repositoryRulesetId": null,
-  "githubAppId": null,
+  "validatorCommit": "1fee678a420d667c8e3fb07927cd593a011ab134",
+  "repositoryRulesetId": 25249325,
+  "githubAppId": 5346881,
   "githubAppSlug": "program-kit-evidence-guardian",
-  "provisioning": "pending; source configuration only"
+  "provisioning": "configured; operational acceptance recorded separately"
 }
