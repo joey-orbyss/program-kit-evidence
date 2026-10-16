@@ -1,0 +1,81 @@
+{
+  "component": "governance",
+  "contractVersion": "1.0",
+  "createdAt": "2026-10-16T15:13:16.962888+00:00",
+  "diagnostics": {
+    "context": {
+      "answer": "unknown",
+      "evidenceClass": "unknown",
+      "explanationKind": "unknown",
+      "references": []
+    },
+    "decision": {
+      "answer": "unknown",
+      "evidenceClass": "unknown",
+      "explanationKind": "unknown",
+      "references": []
+    },
+    "expectation": {
+      "answer": "unknown",
+      "evidenceClass": "unknown",
+      "explanationKind": "unknown",
+      "references": []
+    },
+    "lesson": {
+      "answer": "unknown",
+      "evidenceClass": "unknown",
+      "explanationKind": "unknown",
+      "references": []
+    },
+    "observation": {
+      "answer": "unknown",
+      "evidenceClass": "unknown",
+      "explanationKind": "unknown",
+      "references": []
+    },
+    "remedy": {
+      "answer": "unknown",
+      "evidenceClass": "unknown",
+      "explanationKind": "unknown",
+      "references": []
+    },
+    "resources": {
+      "answer": "unknown",
+      "evidenceClass": "unknown",
+      "explanationKind": "unknown",
+      "references": []
+    },
+    "results": {
+      "answer": "unknown",
+      "evidenceClass": "unknown",
+      "explanationKind": "unknown",
+      "references": []
+    }
+  },
+  "evidence": {
+    "dirtyState": "unknown",
+    "knowledgeVersion": "unknown",
+    "members": [
+      {
+        "bytes": 152,
+        "path": "report.md",
+        "provenance": "Authored locally for setup verification; no consumer data",
+        "purpose": "Synthetic guardian configuration check",
+        "qualification": "Synthetic text fixture in this review proposal",
+        "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+        "transformations": []
+      }
+    ],
+    "profileVersion": "unknown",
+    "programKitVersion": "unknown",
+    "sourceCommit": "unknown"
+  },
+  "omissions": [],
+  "originalAccount": "Fictional configuration verification only. No consumer observation, product defect, or independently reproduced diagnosis is asserted.",
+  "projectId": "program-kit-guardian-setup-verification",
+  "requestId": "rf-a7418aa1a5eb41728cd77836cc4d22ff",
+  "revision": 1,
+  "supersedes": null,
+  "title": "Synthetic invalid-manifest evidence setup probe",
+  "unclassified": []
+}
